@@ -5,8 +5,8 @@ Guide to bootstrapping a highly available Kubernetes cluster with end-to-end enc
 
 VM - [VMware Fusion](https://customerconnect.vmware.com/en/evalcenter?p=fusion-player-personal-13) \
 VM Provisioner - [Hashicorp Vagrant](https://developer.hashicorp.com/vagrant/tutorials/getting-started/getting-started-index) \
-Orchestrater - [Kubernetes](https://kubernetes.io/) \
-Orchestrater Installer - [Kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/) \
+Orchestrator - [Kubernetes](https://kubernetes.io/) \
+Orchestrator Installer - [Kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/) \
 Container Runtime - [Containerd](https://containerd.io/), [Docker](https://www.docker.com/) \
 CNI Container Networking - [Weave](https://github.com/weaveworks/weave), [Flannel](https://github.com/flannel-io/flannel), [Calico](https://github.com/projectcalico/calico) \
 DNS - [CoreDNS](https://github.com/coredns/coredns) \
