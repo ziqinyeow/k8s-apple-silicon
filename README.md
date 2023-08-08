@@ -19,4 +19,5 @@ We will be building the following:
 2. Two worker nodes (worker-1 and worker-2).
 3. One load balancer VM running HAProxy to balance requests between the two API servers.
 
-## Still in progress
+
+🚀 in progress
