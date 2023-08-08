@@ -3,12 +3,12 @@
 ## Cluster Details
 Guide to bootstrapping a highly available Kubernetes cluster with end-to-end encryption between components and RBAC authentication.
 
-VM - VMware Fusion
-VM Provisioner - Hashicorp Vagrant
-Orchestrater - Kubernetes
-Container Runtime - Containerd, Docker
-CNI Container Networking - Weave/Flannel/Calico
-DNS - CoreDNS
+VM - VMware Fusion \
+VM Provisioner - Hashicorp Vagrant \
+Orchestrater - Kubernetes \
+Container Runtime - Containerd, Docker \
+CNI Container Networking - Weave/Flannel/Calico \
+DNS - CoreDNS \
 Metadata storage - etcd
 
 ## Node configuration
